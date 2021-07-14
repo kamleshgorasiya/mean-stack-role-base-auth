@@ -48,7 +48,7 @@ Move to the root of the client folder and then fire below command.
     
 ## Authors
 
-- [@Kamlesh](https://github.com/vaibhavpatel333)
+- [@Kamlesh](https://github.com/kamleshgorasiya)
 
   
 ## License
